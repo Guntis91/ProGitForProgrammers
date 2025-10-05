@@ -1,3 +1,5 @@
+using System;
+
 namespace ConsolePractice
 {
     class Program
@@ -6,6 +8,8 @@ namespace ConsolePractice
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("New Line of Code");
+            Console.WriteLine("Hello, World again!");
+
         }
     }
 }
